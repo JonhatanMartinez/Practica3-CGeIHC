@@ -1,0 +1,25 @@
+﻿  practica3.cpp
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\Window.h(12,36): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica3.cpp')
+  
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\Window.h(13,37): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+  (compiling source file 'practica3.cpp')
+  
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(27,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(226,79): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(226,63): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(264,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(264,32): warning C4244:         with
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(264,32): warning C4244:         [
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(264,32): warning C4244:             _Ty=GLfloat
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(264,32): warning C4244:         ]
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(266,32): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(266,32): warning C4244:         with
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(266,32): warning C4244:         [
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(266,32): warning C4244:             _Ty=GLfloat
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(266,32): warning C4244:         ]
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(273,59): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(514,15): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Practicas Compu Grafica\P3\Practica3\Practica3\practica3.cpp(516,33): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Practica3.vcxproj -> C:\Practicas Compu Grafica\P3\Practica3\x64\Debug\Practica3.exe
